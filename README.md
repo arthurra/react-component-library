@@ -13,3 +13,6 @@ Run Storybook
 
 Run tests
 `npm test`
+
+## Link to original article 
+[Build a component library with React and TypeScript](https://blog.logrocket.com/build-component-library-react-typescript/)
